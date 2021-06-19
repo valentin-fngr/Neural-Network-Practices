@@ -2,3 +2,6 @@ convolutions/first_convolution_layer/data
 logistic_regression/data
 convolutions/resnet50/data
 convolutions/RCNN/data
+convolutions/RCNN/data.zip
+convolutions/RCNN/coco_data
+convolutions/RCNN/car_data
